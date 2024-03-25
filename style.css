@@ -5,7 +5,7 @@ h1{
     font-weight: 300;
 }
  
-@media only screen and(max-width:800px) {
+@media only screen and(max-width:1029px) {
     h1{
         font-size: 1vh;
     }
